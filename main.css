@@ -484,7 +484,7 @@
     overflow: hidden;
     text-transform: uppercase;
     min-height: 100vh;
-    background-image: url("../img/trd.png");
+    background-image: url("trd.png");
     background-size: cover;
     background-position: bottom center;
     background-repeat: no-repeat;
